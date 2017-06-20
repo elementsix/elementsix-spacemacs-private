@@ -1,0 +1,9 @@
+# emacs-as-python-IDE-in-my-way
+I‘m a beginner for emacs. 
+I‘m trying  to hake emacs and config emacs as python IDE
+Hacking journey begins start from 2017.
+It was written for Emacs 25.2+ on MacOS 10.12+
+thanks zilongshanren :github https://github.com/zilongshanren 
+
+
+
